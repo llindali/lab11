@@ -1,6 +1,6 @@
 ﻿# Lab 11 - Eli Lilly sensitivity
 
-Linda Li's individual lab, prepared with AI assistance. Linda confirmed agreement with her partner on the proposed setup and authorized the runs. Numerical analysis is complete; the independent prediction and detailed partner evidence were not supplied.
+Linda Li's individual lab, prepared with AI assistance. Numerical analysis is complete. Linda supplied her partner discussion, qualitative model check, reflection and recollection of a pre-run prediction. Remaining evidence gaps are listed below.
 
 **Question:** Which assumptions drive my company's forecast and value, and what explains their effects?
 
@@ -48,15 +48,23 @@ Tested values range from $554.58 to $623.85 per share. None reverses the gap aga
 
 **Confirmed:** Linda reported, "i just checked with my partner and we agree can you proceed" after the proposed ranges and practice questions. This records agreement, not a verbatim partner discussion.
 
-**Not supplied:** an independently written, timestamped pre-run prediction. No prediction was backdated or reconstructed after seeing results; prediction-error reconciliation remains unavailable. The pre-run range commit does not substitute for that requirement.
+**Partner discussion, reported by Linda:** My partner asked how changing Eli Lilly's revenue growth assumption would affect the model. I explained that higher growth should increase projected revenue and earnings, ultimately increasing estimated value.
 
-**Still needed:** the actual partner question and response; the difference Linda recomputed on her partner's model and unchanged-input check; and the final causal-link/range discussion. Practice questions are examples, not evidence of completed exchanges. Linda's own reflection on what surprised her and her conclusion also remain to be recorded.
+**Partner-model check, reported by Linda:** My partner also modeled Eli Lilly. Increasing revenue growth increased the valuation relative to the original base valuation, with all other independent inputs held fixed to isolate the growth effect. The exact growth paths, valuation amounts and units were not supplied, so a numerical difference cannot yet be documented. Linked statement amounts would still recalculate. This growth scenario belongs to the partner review; this repository's two tested drivers remain R&D and capex.
 
-## Reflection draft - review and personalize
+**Original prediction, recalled by Linda after the repository runs:** "Before running the scenario, I predicted that increasing Eli Lilly's revenue growth assumption would increase the company's projected valuation because higher future revenue would lead to stronger expected cash flows. I expected the valuation to increase noticeably while all other assumptions remained unchanged."
+
+The reported growth result agrees with the predicted direction. A magnitude error cannot be calculated from "noticeably" and an unspecified valuation increase. No original timestamp or pre-run artifact was supplied, and this prediction concerns growth rather than the R&D/capex scenarios. It is recorded as Linda's account, not as a verified locked prediction for these runs.
+
+**Remaining assignment evidence:** the partner's old/new growth values, affected years, base/changed valuations and units; an original timestamped prediction artifact if available; and the actual final partner discussion about range-dependent rankings. The current account does not establish a reconciled locked prediction for the repository's R&D/capex tests.
+
+## Reflection - supplied and confirmed by Linda
+
+I was surprised by how much changing just one assumption could affect the final valuation. It showed me how sensitive a financial model can be to its underlying assumptions. The README's reflection matched my conclusion because both emphasized the importance of understanding how individual assumptions drive model outputs.
 
 Over these ranges, R&D is the main operating-profit driver, while capex is slightly larger for FCFE and value. The noteworthy result is that higher capex leaves operating profit unchanged but reduces cash flow. This reflects the model's fixed expense ratios and capitalization of investment, rather than proving that capital spending has no effect on future earnings. The analysis directs attention to whether Lilly can achieve the assumed growth with the tested R&D and capacity investment. These scenarios do not reverse the inherited valuation gap, but they show why spending and growth should be examined together in further research.
 
-This is an AI-assisted draft, not a claim about Linda's personal surprise or an independently written interpretation.
+The first paragraph records Linda's supplied reflection; the explanatory paragraph is AI-assisted wording that Linda confirmed matches her conclusion.
 
 ## Worked result check - Linda's model
 
