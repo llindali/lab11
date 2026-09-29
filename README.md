@@ -52,6 +52,16 @@ Tested values range from $554.58 to $623.85 per share. None reverses the gap aga
 
 **Still needed:** the actual partner question and response; the difference Linda recomputed on her partner's model and unchanged-input check; and the final causal-link/range discussion. Practice questions are examples, not evidence of completed exchanges. Linda's own reflection on what surprised her and her conclusion also remain to be recorded.
 
+## Reflection draft - review and personalize
+
+Over these ranges, R&D is the main operating-profit driver, while capex is slightly larger for FCFE and value. The noteworthy result is that higher capex leaves operating profit unchanged but reduces cash flow. This reflects the model's fixed expense ratios and capitalization of investment, rather than proving that capital spending has no effect on future earnings. The analysis directs attention to whether Lilly can achieve the assumed growth with the tested R&D and capacity investment. These scenarios do not reverse the inherited valuation gap, but they show why spending and growth should be examined together in further research.
+
+This is an AI-assisted draft, not a claim about Linda's personal surprise or an independently written interpretation.
+
+## Worked result check - Linda's model
+
+For higher R&D, FY2030 FCFE changes from $47,960.71 million to $45,349.75 million. Changed minus base is **-$2,610.96 million**. Independently, $163,185 million revenue times a 0.02 increase in R&D times (1 - 0.20 tax rate) gives the same $2,610.96 million reduction. The saved input sets confirm that only the R&D path changed; all accounting checks pass. This is a reproducible check of Linda's model, not a record of a check performed on her partner's model.
+
 ## Learn on your own
 
 One-at-a-time sensitivity changes one independent assumption while holding others at base; linked statements recalculate. Wider ranges can produce larger spans, so rankings apply only over the stated ranges. A sensitivity table assigns no probabilities and is not a forecast probability distribution.
