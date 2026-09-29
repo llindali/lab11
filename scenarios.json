@@ -1,5 +1,20 @@
 {
-  "drivers": [],
+  "drivers": [
+    {
+      "input": "RD",
+      "lower": [0.18, 0.18, 0.18, 0.18, 0.18],
+      "higher": [0.22, 0.22, 0.22, 0.22, 0.22],
+      "units": "fraction of revenue",
+      "reason": "Judgment agreed by Linda after checking with her partner: +/-2 percentage points around 20% in FY2026-2030 tests more intensive clinical spending versus revenue growing faster than research costs. This is not company guidance."
+    },
+    {
+      "input": "CAPEX",
+      "lower": [0.11, 0.10, 0.09, 0.08, 0.07],
+      "higher": [0.15, 0.14, 0.13, 0.12, 0.11],
+      "units": "fraction of revenue",
+      "reason": "Judgment agreed by Linda after checking with her partner: +/-2 percentage points from the FY2026-2030 base path tests continued capacity investment versus faster tapering as facilities enter operation. This is not company guidance."
+    }
+  ],
   "prediction": null,
-  "partner_checked_before_run": false
+  "partner_agreement": "Linda reported: i just checked with my partner and we agree can you proceed. Agreement covers the proposed setup; no detailed exchange or independent prediction was supplied."
 }
