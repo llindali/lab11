@@ -1,6 +1,6 @@
 ﻿# Lab 11 - Eli Lilly sensitivity
 
-Linda Li's individual lab, prepared with AI assistance. Numerical analysis is complete. Linda supplied her partner discussion, qualitative model check, reflection and recollection of a pre-run prediction. Remaining evidence gaps are listed below.
+Linda Li's individual lab, prepared with AI assistance. Numerical analysis is complete. Linda supplied her partner discussion, numerical model-check account, reflection and reconstructed prediction record. Evidence limitations are listed below.
 
 **Question:** Which assumptions drive my company's forecast and value, and what explains their effects?
 
@@ -50,17 +50,23 @@ Tested values range from $554.58 to $623.85 per share. None reverses the gap aga
 
 **Partner discussion, reported by Linda:** My partner asked how changing Eli Lilly's revenue growth assumption would affect the model. I explained that higher growth should increase projected revenue and earnings, ultimately increasing estimated value.
 
-**Partner-model check, reported by Linda:** My partner also modeled Eli Lilly. Increasing revenue growth increased the valuation relative to the original base valuation, with all other independent inputs held fixed to isolate the growth effect. The exact growth paths, valuation amounts and units were not supplied, so a numerical difference cannot yet be documented. Linked statement amounts would still recalculate. This growth scenario belongs to the partner review; this repository's two tested drivers remain R&D and capex.
+**Partner-model check, reported by Linda:** My partner also modeled Eli Lilly. The base revenue growth assumption was 8%, producing an estimated valuation of approximately $710 billion. Increasing growth to 10% increased estimated valuation to approximately $765 billion. All other independent inputs were held fixed to isolate growth; linked statement amounts still recalculate.
+
+The growth change is **+2 percentage points**, or a 25% relative increase in the growth rate. Using the reported approximate valuations, changed minus base is **+$55 billion**, or approximately **+7.75%** ($55 / $710). This arithmetic verifies the reported difference; the partner's underlying model was not supplied or independently rerun. The affected forecast years and whether the reported total is equity or enterprise value were not specified. This partner scenario is separate from the repository's R&D and capex tests; its values are not outputs from this repository.
 
 **Original prediction, recalled by Linda after the repository runs:** "Before running the scenario, I predicted that increasing Eli Lilly's revenue growth assumption would increase the company's projected valuation because higher future revenue would lead to stronger expected cash flows. I expected the valuation to increase noticeably while all other assumptions remained unchanged."
 
-The reported growth result agrees with the predicted direction. A magnitude error cannot be calculated from "noticeably" and an unspecified valuation increase. No original timestamp or pre-run artifact was supplied, and this prediction concerns growth rather than the R&D/capex scenarios. It is recorded as Linda's account, not as a verified locked prediction for these runs.
+The reported +$55 billion result agrees with the predicted direction. A magnitude error cannot be calculated because "noticeably" does not specify a numerical prediction. **Timestamp status, supplied by Linda:** reconstructed from the Lab 11 session; exact original timestamp was not saved. This prediction concerns growth rather than the R&D/capex scenarios and is recorded as Linda's account, not as a verified locked prediction for these runs.
 
-**Remaining assignment evidence:** the partner's old/new growth values, affected years, base/changed valuations and units; an original timestamped prediction artifact if available; and the actual final partner discussion about range-dependent rankings. The current account does not establish a reconciled locked prediction for the repository's R&D/capex tests.
+**Final partner discussion, reported by Linda:** We discussed how selected ranges can affect company rankings. A more optimistic growth assumption can produce higher potential valuations, while conservative assumptions can lower them, so rankings depend partly on the assumptions and ranges chosen.
+
+**Clarification for this lab:** The requested ranking compares drivers within a model by output span, not companies by raw valuation. A wider tested range can make a driver rank higher by increasing its span; widening a range does not necessarily increase the base valuation. Here, capex ranks slightly above R&D for FCFE and value over the stated ranges. Both partners modeled Lilly, so the review does not support a comparison between different companies.
+
+**Evidence limitations:** the partner's affected years and equity-versus-enterprise value basis remain unspecified. The reconstructed prediction record does not establish a timestamped, reconciled locked prediction for this repository's R&D/capex tests. These historical gaps are disclosed rather than backfilled.
 
 ## Reflection - supplied and confirmed by Linda
 
-I was surprised by how much changing just one assumption could affect the final valuation. It showed me how sensitive a financial model can be to its underlying assumptions. The README's reflection matched my conclusion because both emphasized the importance of understanding how individual assumptions drive model outputs.
+I was surprised by how much a relatively small change in the growth assumption affected the final valuation. It showed me how sensitive valuation models can be to their underlying assumptions. The README's reflection matched my conclusion because both emphasized that model outputs depend heavily on the assumptions and ranges selected.
 
 Over these ranges, R&D is the main operating-profit driver, while capex is slightly larger for FCFE and value. The noteworthy result is that higher capex leaves operating profit unchanged but reduces cash flow. This reflects the model's fixed expense ratios and capitalization of investment, rather than proving that capital spending has no effect on future earnings. The analysis directs attention to whether Lilly can achieve the assumed growth with the tested R&D and capacity investment. These scenarios do not reverse the inherited valuation gap, but they show why spending and growth should be examined together in further research.
 
@@ -74,4 +80,4 @@ For higher R&D, FY2030 FCFE changes from $47,960.71 million to $45,349.75 millio
 
 One-at-a-time sensitivity changes one independent assumption while holding others at base; linked statements recalculate. Wider ranges can produce larger spans, so rankings apply only over the stated ranges. A sensitivity table assigns no probabilities and is not a forecast probability distribution.
 
-[Assignment](https://github.com/CinderZhang/FIN43900-Fall2026/blob/main/lessons/week-06/lab-11-proforma-what-if.md). Submit individually; personal evidence above remains incomplete.
+[Assignment](https://github.com/CinderZhang/FIN43900-Fall2026/blob/main/lessons/week-06/lab-11-proforma-what-if.md). Individual submission; evidence limitations are disclosed above.

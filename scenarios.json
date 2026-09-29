@@ -16,10 +16,11 @@
     }
   ],
   "prediction": null,
-  "partner_agreement": "Linda confirmed agreement on the proposed setup. Her subsequently supplied discussion, qualitative growth-scenario check and reflection are recorded in README.md.",
+  "partner_agreement": "Linda confirmed agreement on the proposed setup. Her subsequently supplied discussion, numerical growth-scenario check and reflection are recorded in README.md.",
   "reported_growth_prediction": {
     "text": "Before running the scenario, I predicted that increasing Eli Lilly's revenue growth assumption would increase the company's projected valuation because higher future revenue would lead to stronger expected cash flows. I expected the valuation to increase noticeably while all other assumptions remained unchanged.",
     "original_timestamp": null,
+    "timestamp_status": "Reconstructed from the Lab 11 session; exact original timestamp was not saved.",
     "scope": "Student-reported growth prediction, supplied after repository runs; not a locked prediction for the RD/CAPEX scenarios."
   }
 }
