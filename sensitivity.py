@@ -53,8 +53,8 @@ def main():
     results = {'base_before': base}
     lines = ['# LLY sensitivity results', '',
              'FY2030 operating profit and FCFE: USD millions. Value: USD/share.',
-             'Input paths run FY2026–2030. Deltas = scenario minus base.', '',
-             '| Input | Case | Actual path | Units | Profit | Δ profit | FCFE | Δ FCFE | Value | Δ value | Checks |',
+             'Input paths run FY2026-2030. Deltas = scenario minus base.', '',
+             '| Input | Case | Actual path | Units | Profit | Change | FCFE | Change | Value | Change | Checks |',
              '|---|---|---|---|---:|---:|---:|---:|---:|---:|---|']
     spans = []
     for d in drivers:
