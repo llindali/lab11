@@ -48,21 +48,23 @@ Tested values range from $554.58 to $623.85 per share. None reverses the gap aga
 
 **Confirmed:** Linda reported, "i just checked with my partner and we agree can you proceed" after the proposed ranges and practice questions. This records agreement, not a verbatim partner discussion.
 
-**Partner discussion, reported by Linda:** My partner asked how changing Eli Lilly's revenue growth assumption would affect the model. I explained that higher growth should increase projected revenue and earnings, ultimately increasing estimated value.
+**Partner discussion, reported by Linda:** My partner asked how changing Eli Lilly's revenue growth assumption would affect the model. I answered that increasing the growth assumption should increase projected revenue and cash flows, resulting in a higher estimated valuation.
 
 **Partner-model check, reported by Linda:** My partner also modeled Eli Lilly. The base revenue growth assumption was 8%, producing an estimated valuation of approximately $710 billion. Increasing growth to 10% increased estimated valuation to approximately $765 billion. All other independent inputs were held fixed to isolate growth; linked statement amounts still recalculate.
 
 The growth change is **+2 percentage points**, or a 25% relative increase in the growth rate. Using the reported approximate valuations, changed minus base is **+$55 billion**, or approximately **+7.75%** ($55 / $710). This arithmetic verifies the reported difference; the partner's underlying model was not supplied or independently rerun. The affected forecast years and whether the reported total is equity or enterprise value were not specified. This partner scenario is separate from the repository's R&D and capex tests; its values are not outputs from this repository.
 
-**Original prediction, recalled by Linda after the repository runs:** "Before running the scenario, I predicted that increasing Eli Lilly's revenue growth assumption would increase the company's projected valuation because higher future revenue would lead to stronger expected cash flows. I expected the valuation to increase noticeably while all other assumptions remained unchanged."
+**Pre-run prediction, reported retrospectively by Linda:** "Before running the scenario, I predicted that increasing Eli Lilly's revenue growth assumption would increase its projected valuation because higher expected revenue would lead to stronger future cash flows. I also predicted that Eli Lilly could move higher in the company rankings under a more optimistic growth scenario."
 
-The reported +$55 billion result agrees with the predicted direction. A magnitude error cannot be calculated because "noticeably" does not specify a numerical prediction. **Timestamp status, supplied by Linda:** reconstructed from the Lab 11 session; exact original timestamp was not saved. This prediction concerns growth rather than the R&D/capex scenarios and is recorded as Linda's account, not as a verified locked prediction for these runs.
+**Timestamp / Git evidence:** No timestamped pre-run prediction or Git commit was saved. The earlier range-setup commit contains the agreed inputs, not a saved prediction. The current documentation commit is not pre-run evidence.
 
-**Final partner discussion, reported by Linda:** We discussed how selected ranges can affect company rankings. A more optimistic growth assumption can produce higher potential valuations, while conservative assumptions can lower them, so rankings depend partly on the assumptions and ranges chosen.
+**Comparison with actual result:** The reported increase from approximately $710 billion to $765 billion is consistent with the predicted direction: higher assumed growth produced a higher valuation in the partner's scenario. No numerical predicted magnitude was supplied, so magnitude error cannot be calculated. No before/after company rankings were supplied, so the ranking prediction cannot be checked. This growth account does not reconcile a locked prediction for the repository's R&D/capex scenarios.
+
+**Final partner discussion, reported by Linda:** We discussed how selected ranges can affect company rankings. We concluded that companies given wider or more optimistic growth ranges could show larger valuation increases and potentially rank higher, while more conservative ranges could produce lower valuations. Rankings therefore depend partly on the ranges and assumptions selected, making reasonable and comparable ranges important.
 
 **Clarification for this lab:** The requested ranking compares drivers within a model by output span, not companies by raw valuation. A wider tested range can make a driver rank higher by increasing its span; widening a range does not necessarily increase the base valuation. Here, capex ranks slightly above R&D for FCFE and value over the stated ranges. Both partners modeled Lilly, so the review does not support a comparison between different companies.
 
-**Evidence limitations:** the partner's affected years and equity-versus-enterprise value basis remain unspecified. The reconstructed prediction record does not establish a timestamped, reconciled locked prediction for this repository's R&D/capex tests. These historical gaps are disclosed rather than backfilled.
+**Evidence limitations:** No locked pre-run prediction was saved for the R&D/capex tests. The reported final discussion concerns company rankings; a partner question/response about the R&D/capex driver ranking has not been supplied. For reproducibility, the partner's affected years and equity-versus-enterprise value basis are also unspecified, although these are not separate required fields for the partner-review notes.
 
 ## Reflection - supplied and confirmed by Linda
 
