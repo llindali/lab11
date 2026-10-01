@@ -18,7 +18,7 @@ Eli Lilly generates revenue primarily through the development and sale of pharma
 
 My historical analysis uses FY2023-FY2025 filing information and traces revenue, gross profit, SG&A, income, inventory, PP&E, equity, and other inputs to company filings.
 
-My FY2026 forecast uses **$86.0 billion of revenue**, representing the midpoint of Lilly's $85-$87 billion August 2026 guidance range. After 2026, my forecast assumes revenue growth of 25% in 2027, 20% in 2028, 15% in 2029, and 10% in 2030. These later growth rates are my scenario assumptions rather than management guidance.
+My FY2026 forecast uses **\$86.0 billion of revenue**, representing the midpoint of Lilly's \$85-\$87 billion August 2026 guidance range. After 2026, my forecast assumes revenue growth of 25% in 2027, 20% in 2028, 15% in 2029, and 10% in 2030. These later growth rates are my scenario assumptions rather than management guidance.
 
 Recurring R&D is modeled at **20% of revenue**, close to Lilly's FY2025 R&D level of approximately 20.46% of revenue. Capex begins at 13% of revenue in 2026 and gradually declines to 9% by 2030 as I assume manufacturing expansion eventually begins to taper.
 
@@ -26,13 +26,13 @@ Recurring R&D is modeled at **20% of revenue**, close to Lilly's FY2025 R&D leve
 
 My pro-forma covers FY2026-FY2030.
 
-Revenue grows from **$86.0 billion in 2026 to $163.185 billion in 2030**.
+Revenue grows from **\$86.0 billion in 2026 to \$163.185 billion in 2030**.
 
-Recurring R&D grows from **$17.2 billion to $32.637 billion**.
+Recurring R&D grows from **\$17.2 billion to \$32.637 billion**.
 
-Net income increases from approximately **$26.284 billion to $58.807 billion**.
+Net income increases from approximately **\$26.284 billion to \$58.807 billion**.
 
-FCFE increases from approximately **$17.951 billion to $47.961 billion**.
+FCFE increases from approximately **\$17.951 billion to \$47.961 billion**.
 
 The statements are linked. Earnings affect cash flow and equity, working-capital changes affect operating cash flow, capex affects investing cash flow and PP&E, and borrowing affects cash and debt.
 
@@ -42,7 +42,7 @@ All five forecast years balance with:
 
 **Assets − Liabilities − Equity = 0**
 
-The base case remains above the $5 billion minimum cash requirement and requires no revolver draw.
+The base case remains above the \$5 billion minimum cash requirement and requires no revolver draw.
 
 ### 4. Valuation
 
@@ -54,14 +54,14 @@ The model discounts the five explicit forecast years at **10%** and uses a **2.5
 
 The resulting valuation is:
 
-- PV of explicit FCFE: **$117.321 billion**
-- PV of terminal cash flows: **$406.991 billion**
-- Opening excess cash: **$2.268 billion**
-- Total modeled equity value: **$526.580 billion**
+- PV of explicit FCFE: **\$117.321 billion**
+- PV of terminal cash flows: **\$406.991 billion**
+- Opening excess cash: **\$2.268 billion**
+- Total modeled equity value: **\$526.580 billion**
 - Diluted share proxy: **893.7 million shares**
-- **Modeled value per share: $589.21**
+- **Modeled value per share: \$589.21**
 
-The market observation used in the project was **$1,188.87 per share on September 24, 2026**.
+The market observation used in the project was **\$1,188.87 per share on September 24, 2026**.
 
 I would not interpret this difference as proof that the market is incorrectly pricing Lilly. Instead, the market could be incorporating stronger expectations for future growth, research productivity, manufacturing expansion, or other factors not fully captured by my simplified model.
 
@@ -85,19 +85,19 @@ I tested:
 
 Across this range:
 
-- FY2030 operating-profit span = **$6.527 billion**
-- FY2030 FCFE span = **$5.222 billion**
-- Value span = **$66.29/share**
+- FY2030 operating-profit span = **\$6.527 billion**
+- FY2030 FCFE span = **\$5.222 billion**
+- Value span = **\$66.29/share**
 
-Increasing R&D from 20% to 22% reduces FY2030 operating profit by approximately **$3.264 billion**.
+Increasing R&D from 20% to 22% reduces FY2030 operating profit by approximately **\$3.264 billion**.
 
-After the modeled 20% tax rate, net income and FCFE decline by approximately **$2.611 billion**.
+After the modeled 20% tax rate, net income and FCFE decline by approximately **\$2.611 billion**.
 
 The causal relationship is:
 
 **Higher R&D → higher operating expense → lower operating profit → lower net income → lower operating cash flow/FCFE → lower valuation**
 
-The modeled value falls from **$589.21 to $556.07 per share**.
+The modeled value falls from **\$589.21 to \$556.07 per share**.
 
 #### Capex
 
@@ -107,17 +107,17 @@ I tested two percentage points above and below that base path.
 
 Across this range:
 
-- FY2030 operating-profit span = **$0**
-- FY2030 FCFE span = **$5.322 billion**
-- Value span = **$69.27/share**
+- FY2030 operating-profit span = **\$0**
+- FY2030 FCFE span = **\$5.322 billion**
+- Value span = **\$69.27/share**
 
-Increasing capex by two percentage points increases FY2030 investment by approximately **$3.264 billion**.
+Increasing capex by two percentage points increases FY2030 investment by approximately **\$3.264 billion**.
 
 The causal relationship is:
 
 **Higher capex → greater investing cash outflow → lower FCFE → lower valuation**
 
-The higher-capex scenario reduces modeled value from **$589.21 to $554.58 per share**.
+The higher-capex scenario reduces modeled value from **\$589.21 to \$554.58 per share**.
 
 ### 6. Sensitivity Interpretation
 
@@ -153,7 +153,7 @@ This is an important limitation of the sensitivity analysis.
 
 #### Follow-Up Question
 
-**Question:** Why does your model produce only $589.21 per share when the market observation is $1,188.87?
+**Question:** Why does your model produce only \$589.21 per share when the market observation is \$1,188.87?
 
 #### My Answer
 
@@ -189,25 +189,25 @@ Base R&D = **20% of revenue**
 
 Changed R&D = **22% of revenue**
 
-FY2030 revenue = **$163.185 billion**
+FY2030 revenue = **\$163.185 billion**
 
 Difference:
 
-**$163.185B × 2% = $3.2637B**
+**\$163.185B × 2% = \$3.2637B**
 
-Therefore, the additional R&D reduces FY2030 operating profit by approximately **$3.264 billion**.
+Therefore, the additional R&D reduces FY2030 operating profit by approximately **\$3.264 billion**.
 
 With the model's 20% tax rate:
 
-**$3.2637B × (1 − 20%) = $2.611B**
+**\$3.2637B × (1 − 20%) = \$2.611B**
 
-Net income and FCFE therefore decline by approximately **$2.611 billion**.
+Net income and FCFE therefore decline by approximately **\$2.611 billion**.
 
 The resulting modeled share value decreases:
 
-**Base: $589.21/share**
+**Base: \$589.21/share**
 
-**Higher R&D: $556.07/share**
+**Higher R&D: \$556.07/share**
 
 Other independent inputs remain fixed while the linked financial statements recalculate.
 
@@ -219,7 +219,7 @@ Other independent inputs remain fixed while the linked financial statements reca
 
 **Answer:** No.
 
-Capex produced a **$69.27/share** valuation span compared with **$66.29/share** for R&D, but this ranking applies only to the ranges tested.
+Capex produced a **\$69.27/share** valuation span compared with **\$66.29/share** for R&D, but this ranking applies only to the ranges tested.
 
 Both were moved by two percentage points, and equal percentage-point movements do not necessarily represent equal economic uncertainty.
 
@@ -233,9 +233,9 @@ Additionally, the model does not allow reduced R&D or capex to reduce future rev
 
 #### Valuation Conclusion
 
-Linda's base-case model produces an estimated value of **$589.21 per share**.
+Linda's base-case model produces an estimated value of **\$589.21 per share**.
 
-The model therefore produces a substantially lower value than the dated market observation of $1,188.87, but the difference should be interpreted as a difference between the assumptions embedded in the model and expectations reflected in the market rather than automatically concluding that the stock is incorrectly priced.
+The model therefore produces a substantially lower value than the dated market observation of \$1,188.87, but the difference should be interpreted as a difference between the assumptions embedded in the model and expectations reflected in the market rather than automatically concluding that the stock is incorrectly priced.
 
 #### Main Driver
 
@@ -315,11 +315,11 @@ This is more important than simply testing progressively wider spending ranges.
 
 ### Effect on My Conclusion
 
-The review does **not change my $589.21 base-case valuation**, because I have not changed an assumption and rerun the model.
+The review does **not change my \$589.21 base-case valuation**, because I have not changed an assumption and rerun the model.
 
 It does change my **research priority and interpretation**.
 
-I now view the $589.21 result as more clearly conditional on the model's assumption that the projected revenue path can be achieved with the specified R&D and capex levels.
+I now view the \$589.21 result as more clearly conditional on the model's assumption that the projected revenue path can be achieved with the specified R&D and capex levels.
 
 ---
 
@@ -337,4 +337,4 @@ My current model shows that reducing R&D or capex increases FCFE because less ca
 
 I now understand better that Lilly's valuation is not simply about maximizing near-term cash flow. The more important question is whether future growth and research productivity are sufficient to justify the investment required to produce that growth.
 
-Therefore, my **$589.21 per-share valuation remains my base-case result**, but I would investigate the relationship between growth, R&D, and manufacturing investment before changing my conclusion.
+Therefore, my **\$589.21 per-share valuation remains my base-case result**, but I would investigate the relationship between growth, R&D, and manufacturing investment before changing my conclusion.
