@@ -83,3 +83,7 @@ For higher R&D, FY2030 FCFE changes from $47,960.71 million to $45,349.75 millio
 One-at-a-time sensitivity changes one independent assumption while holding others at base; linked statements recalculate. Wider ranges can produce larger spans, so rankings apply only over the stated ranges. A sensitivity table assigns no probabilities and is not a forecast probability distribution.
 
 [Assignment](https://github.com/CinderZhang/FIN43900-Fall2026/blob/main/lessons/week-06/lab-11-proforma-what-if.md). Individual submission; evidence limitations are disclosed above.
+
+## Lab 12
+
+This section is reserved for Lab 12. Assignment details, analysis, and results will be added here.
